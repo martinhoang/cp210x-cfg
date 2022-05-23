@@ -18,7 +18,7 @@ Additionally for the CP2102n:
   - Toggle between internal and external serial number
 
 # CAUTION
-- This updated version support new chips as well
+This updated version support new chips as well
 ~~This applies to the older CP210x chips (not the CP2102n)~~
 Programming a CP210x config field is a write-once operation. It's perfectly possible to write bad values.
 The consequences are yours, and yours alone.
